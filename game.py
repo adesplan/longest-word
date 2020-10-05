@@ -3,6 +3,8 @@
 
 import string
 import random
+import requests
+
 
 class Game:
 
