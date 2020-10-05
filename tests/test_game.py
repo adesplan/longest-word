@@ -3,6 +3,7 @@ import unittest
 import string
 from game import Game
 
+
 class TestGame(unittest.TestCase):
     def test_game_initialization(self):
         new_game = Game()
